@@ -4,7 +4,7 @@
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of https://github.com/facebookresearch/FixRes
 #
-# from torchbench.image_classification import ImageNet
+from torchbench.image_classification import ImageNet
 import torchvision.transforms as transforms
 import PIL
 import urllib.request
